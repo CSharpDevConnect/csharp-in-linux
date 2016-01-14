@@ -7,5 +7,7 @@ The slides are available [here](CSharp_in_Linux_Presentation.pdf) and were origi
 Two GitHub repos were referenced during this talk: [gavinkendall/autoscreen](https://github.com/gavinkendall/autoscreen) and [gavinkendall/psychat](https://github.com/gavinkendall/psychat).
 
 ### Gavin's Contact information
+
 [Gavin on Twitter](https://twitter.com/gavinmkendall)
+
 [Gavin on GitHub](https://github.com/gavinkendall)
